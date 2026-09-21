@@ -13,8 +13,8 @@ A responsive **Netflix-inspired web application** built during my **Frontend Dev
 
 ## 🛠️ Tech Stack
 
-* **HTML5**
-* **CSS3**
+* **HTML**
+* **CSS**
 * **JavaScript**
 
 ## 📂 Project Purpose
